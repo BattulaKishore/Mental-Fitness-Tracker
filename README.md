@@ -76,7 +76,5 @@ Contributions to the Mental Fitness Tracker project are welcome! If you have any
 
 If you have any questions or need assistance with the Mental Fitness Tracker, you can reach out to us using the contact information provided in the "Contact" page of the application. We value your input and will do our best to respond to your inquiries in a timely manner.
 
-## License
 
-The Mental Fitness Tracker project is open-source and distributed under the [MIT License](LICENSE).
 
